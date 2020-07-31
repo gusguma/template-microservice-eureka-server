@@ -8,6 +8,7 @@
 ### Estado del código
 
 [![Build Status](https://travis-ci.org/gusguma/template-microservice-eureka-server.svg?branch=develop)](https://travis-ci.org/gusguma/template-microservice-user)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=es.gusguma%3Atemplate-microservice-eureka-server&metric=alert_status)](https://sonarcloud.io/dashboard?id=es.gusguma%3Atemplate-microservice-eureka-server)
 
 ### Tecnologías necesarias
 * Java
