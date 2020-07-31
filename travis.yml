@@ -6,8 +6,7 @@ branches:
     - master
 notifications:
   email:
-    recipients:
-      - $EMAIL
+    recipients: $EMAIL
 script:
   #Test unitario y de integracion con cobertura
   - mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
