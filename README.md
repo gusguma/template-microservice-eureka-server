@@ -4,6 +4,7 @@
 ## Microservicios
 * https://github.com/gusguma/template-microservice-user
 * https://github.com/gusguma/template-microservice-eureka-server
+* https://github.com/gusguma/template-microservice-gateway
 
 ### Estado del código
 
